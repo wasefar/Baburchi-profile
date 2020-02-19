@@ -1,0 +1,1323 @@
+/*mobile layout 320px*/
+
+@media only screen and (max-width: 767px) {
+    .container_box {
+        width: 100%;
+        margin: 0 auto;
+    }
+    nav.navbar.navbar-light.img_sc img {
+        width: 114px;
+    }
+    .menu-icon-bars {
+        float: none;
+        display: block;
+        position: absolute;
+        top: -79px;
+        right: 31px;
+    }
+    .Overlay {
+        width: 75%;
+        height: 100%;
+        background: #eee;
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: none;
+        z-index: 2;
+    }
+    .menu-icon-bars i {
+        font-size: 17px;
+    }
+    .top-header-area {
+        height: 48px;
+    }
+    .menu-icon-bars-cross {
+        display: block;
+    }
+    .top-area {
+        padding-top: 65px;
+    }
+    .img_sc img {
+        width: 100px;
+    }
+    .menu-icon-bars-cross {
+        position: absolute;
+        top: 10px;
+        left: 24px;
+    }
+    .menu-icon-bars-cross i {
+        font-size: 25px;
+        color: #151515;
+    }
+    .top-area li,
+    .top-area li.active {
+        border-bottom: 1px solid #fff;
+    }
+    span.font-icon_5star i {
+        font-size: 10px;
+    }
+    .top-area li {
+        display: block;
+        width: 100%;
+        padding: 15px 0;
+    }
+    .top-area li a {
+        font-size: 15px;
+        color: #151515;
+    }
+    .banner_item_text_paragraph_sc p {
+        width: 85%;
+        margin: 0 auto;
+    }
+    .inside-bars-nav {
+        padding-top: 20px;
+    }
+    .inside-bars-nav li a {
+        color: #151515;
+    }
+    i.far.fa-user {
+        color: #151515;
+    }
+    li.bdr {
+        border-right: 1px solid #151515;
+        height: 20px;
+    }
+    .log_in_sc_area_singup_section_area {
+        display: none;
+    }
+    .row.top {
+        margin-right: 0px;
+    }
+    .inside-bars-nav {
+        display: block;
+    }
+    .container_box.mobile {
+        margin-left: 4px;
+    }
+    .baburchi_sc_img::before {
+        width: 100%;
+    }
+    .item.sc_images_slide {
+        width: 100%;
+        margin-top: 50px;
+    }
+    select.location-area-sc {
+        font-size: 10px;
+    }
+    .col-md-6.sc_wdt100.mo {
+        margin: 0px;
+    }
+    .col-md-6.col-sm-6.pdr0 {
+        padding-right: 0px;
+    }
+    .sc_contant_sc {
+        margin: 0 0px;
+    }
+    .sc_baburchi_search_inside_sc::before {
+        position: absolute;
+        top: -171px;
+        right: -53px;
+        content: url("../image/before_baburchi.png");
+    }
+    .lang {
+        z-index: 2;
+        display: none;
+    }
+    .sc_baburchi_search_inside_sc {
+        margin-top: 0px;
+    }
+    .sc_baburchi_search_inside_sc::before {
+        top: -101px;
+        right: -84px;
+        content: url("../image/before_baburchi1.png");
+    }
+    .col-md-6.sc_wdt100 {
+        margin-bottom: 17px;
+    }
+    select.location_area_sc,
+    .input_sc_search_baburchi input {
+        border: 1px solid #ccc;
+    }
+    h3.title_sc_banner_item_main_heading::before {
+        left: 50%;
+    }
+    .banner_sc_item_text_background_text_item {
+        padding-top: 122px;
+    }
+    .inside-bars-nav li {
+        display: inline-block;
+        padding: 0 15px;
+    }
+    h3.title_sc_center_item_heading {
+        padding: 40px 0 50px;
+        font-size: 25px;
+        background-image: url(../image/title-bar1.png);
+    }
+    .main_sc_item_section_featutre_baburchi {
+        height: 100%;
+    }
+    .featured_description_sc_bg_shape {
+        margin-bottom: 46px;
+    }
+    .banner_bottom_sc_area_item_bg_orange {
+        height: 168px;
+    }
+    .sc_baburchi_search_panel {
+        top: 534px;
+    }
+    .item.box {
+        width: 100%;
+        height: 100%;
+    }
+    .item_description {
+        padding: 70px 10px 29px;
+    }
+    .sc_featured_baburchi_section_and_description {
+        margin-left: 0px;
+    }
+    .sc_advise_area {
+        width: 100%;
+    }
+    .baburchi_name_sc {
+        padding: 5px 0 0;
+        font-size: 12px;
+    }
+    p.baburchi-info {
+        font-size: 12px;
+        margin: 0;
+    }
+    .sc_baburchi_search_panel {
+        padding: 33px 49px;
+        width: 77%;
+    }
+    .owl-carousel.kitchen_bottom.owl-theme.owl-loaded.owl-drag {
+        width: 75%;
+        padding: 9px 0 20px;
+    }
+    .sc_advise_area.add2 img {
+        width: 100%;
+    }
+    .sc_advise_area.add2 {
+        width: 100%;
+    }
+    .sc_advise_area {
+        padding-top: 59px;
+        width: 100%;
+    }
+    .sc_advise_area img {
+        width: 100%;
+    }
+    h3.title_sc_center_item_heading.pd {
+        padding: 48px 0 44px;
+    }
+    .right_side_bar_input_footer p {
+        padding-left: 0px;
+    }
+    .navbar.pd0.navbar-light.footer_input {
+        padding: 0;
+    }
+    .i_sc_section {
+        padding-left: 0px;
+    }
+    .back_to_top i {
+        font-size: 30px;
+    }
+    .item.sc_images_slide {
+        height: 218px;
+        width: 100%;
+        margin-top: 34px;
+    }
+    .item.sc_images_slide::before {
+        top: -40px;
+    }
+    p.para {
+        width: 100%;
+        font-size: 9px;
+    }
+    .item_sc_text_para h4 {
+        font-size: 14px;
+    }
+    p.loc_area_coustomar {
+        font-size: 9px;
+    }
+    .item_sc_text_para {
+        text-align: center;
+        padding: 44px;
+    }
+    .container_box.wgt {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .baburchi_sc_bg_orrange.bdri_sc {
+        margin-top: 0px;
+    }
+    .left_side_area_tearms_condition {
+        height: 144px;
+    }
+    .right_side_bar_input_footer p {
+        line-height: 32px;
+    }
+    .footer_sc_area_item_section {
+        height: 600px;
+    }
+    .footer_logo_area img {
+        width: 140px;
+        top: 302px;
+    }
+    nav.navbar.navbar-light.footer_input input {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .top_tabs_menu_click_item ul li {
+        padding: 0 22px;
+    }
+    .images_sc_area_baburcii.small.right img {
+        float: none;
+        margin-bottom: 42px;
+    }
+    .images_sc_area_baburcii.small img {
+        height: 100%;
+        width: 100%;
+    }
+    .owl-nav button.owl-prev {
+        position: absolute;
+        top: 30%;
+        font-weight: normal;
+        left: 0;
+        font-size: 100px!important;
+        color: #f1ba29!important;
+        background: rgba(0, 0, 0, 0.8)!important;
+    }
+    .owl-nav button.owl-next {
+        position: absolute;
+        top: 30%;
+        right: 0;
+        font-size: 100px!important;
+        color: #f1ba29!important;
+        background: rgba(0, 0, 0, 0.8)!important;
+    }
+    .owl-carousel.homepage-slider .owl-nav button.owl-next,
+    .owl-carousel.homepage-slider .owl-nav button.owl-prev {
+        background: 0 0!important;
+        top: 46%;
+        font-size: 69px !important;
+        color: #f1ba29!important;
+    }
+
+    /* modal singup/login*/
+    .images_sc_area_baburcii.small img {
+        display: none;
+    }
+    .col-md-4.top {
+        margin-top: 0px;
+    }
+    .customar_voice_sc_main_item_area {
+        margin-bottom: 0px;
+        background: none;
+    }
+    .right_side_bar_input_footer {
+        padding-top: 54px;
+    }
+
+    .uplode-img-area.destop_none {
+        margin-bottom: 20px;
+    }
+    .uplode-img-area.mobile_none {
+        display: none;
+    }
+    .modal-content {
+        padding: 17px !important;
+    }
+    .padding-area-input .col-md-9, .col-md-3, .col-md-6, .col-md-10, .col-md-4, .col-md-12, .col-md-2 {
+
+        padding-right: 0px;
+    }
+    .midile-wdt {
+        width: 100%;
+    }
+    .pd-up-img {
+        width: 100%;
+    }
+    .main-man-img, .uplode-img-area p {
+        width: 30%;
+    }
+    /*end modal singup/login*/
+
+    /*about*/
+    .text-information-about h3.title_sc_center_item_heading {
+        background-size: 70%;
+    }
+    h3.title_sc_center_item_heading {
+        padding: 40px 0 25px;
+        font-size: 29px;
+    }
+    .right_side_bar_input_footer {
+        float: none;
+    }
+    .footer_icon_social_media {
+        padding-top: 0;
+    }
+    .text-tittle-babaurchi {
+        padding: 60px 10px 65px;
+    }
+
+    /*end about*/
+
+    /*babuchi page*/
+    .main_baburchi_page .banner-profile-text .middile-text {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .main_baburchi_page.sc-padding .col-md-7{
+        max-width: 70%;
+        flex: 70%;
+    }
+    .main_baburchi_page.sc-padding .col-md-4{
+        max-width: 30%;
+        flex: 30%;
+    }
+    .bg-profile-padding {
+        padding-right: 15px;
+    }
+    .png_image-baburchi img {
+        max-height: 193px;
+        width: 200px;
+    }
+    .banner-profile-text {
+        padding-top: 86px;
+    }
+      .main_baburchi_page .bg-profile {
+        height: 293px;
+    }
+    .input-area-baburchi {
+        float: none;
+        clear: both;
+    }
+    .main-item-list {
+        display: none;
+    }
+    .profile-name {
+        float: none;
+        width: 100%;
+        margin-bottom: 14px;
+    }
+    .image {
+        width: 40%;
+        display: block;
+    }
+    .profile-name.mobile, .profile-name.contact, .profile-name.capacity-parson, .profile-name.position, .profile-name.address, .profile-name.Program, .profile-name.ratings {
+        width: 100%;
+        text-align: left; 
+        padding-top: 0px;
+        padding-left: 0;
+        border-bottom: 1px solid #f4da94;
+        /*box-shadow: 0px 2px 0px #f7f2f2;*/
+        padding-bottom: 10px;
+    }
+    .baburchi_all_document {
+        padding: 0 30px;
+    }
+    .description h5 {
+        font-size: 17px;
+    }
+    .description p, .profile-name p {
+        font-size: 14px;
+    }
+    .profile-popup a {
+        font-size: 13px;
+    }
+    .item-image p {
+        bottom: 24px;
+    }
+    .profile-name.ratings span i {
+        font-size: 12px;
+    }
+    .baburchi_list_sc {
+        padding: 0 15px;
+    }
+    .sc_advise_area {
+        padding-top: 0;
+    }
+    .next-item-namber p {
+        margin-right: 10px;
+    }
+    .owl-carousel.list-baburchi-recipe .owl-nav .owl-next {
+        right: 10%;
+    }
+     /*end babuchi page*/
+
+     /*view-profile-modal*/
+
+     .popup_baburchi_profile .profile-all-list p {
+        line-height: 13px;
+        font-size: 12px;
+    }
+    .popup_baburchi_profile .profile-name-baburchi-popup {
+        float: left;
+        width: 60%;
+    }
+    .popup_baburchi_profile .profile-description-baburchi-popup {
+        float: left;
+        width: 40%;
+    }
+     /*view-profile-modal*/
+
+     /*view recipe*/
+
+     .bottom_recipe_banner {
+        padding-top: 0px;
+    }
+    .single-food-recipe .recipe-item-tittle h4 {
+        font-size: 9px;
+        max-height: 30px;
+        line-height: 13px;
+    }
+    .single-food-recipe .button-area .recipe {
+        font-size: 9px;
+        margin-top: 12px;
+    }
+    .single-food-recipe .recipe-area-header.leftside {
+        width: 193px;
+    }
+    .single-food-recipe .recipe-area-header.rightside {
+        padding-left: 1px;
+        width: calc(100% - 193px);
+    }
+    .recipe-area-header.rightside {
+        padding-top: 15px;
+    }
+    .recipe-area-header.leftside .recipe-item-img.full {
+        margin-top: -15px;
+    }
+    .slider-slide.sc-padding-area {
+        padding: 5px;
+    }
+    .add_item_baburchi .sc_advise_area {
+        width: 70%;
+    }
+     /*end view recipe*/
+
+     /*view recipe modal*/
+
+     .modal-content.pd {
+        padding: 20px !important;
+    }
+    .recipe-area-header.leftside .recipe-item-img.full img {
+        width: 90%;
+    }
+    .recipe-item-img {
+        margin-top: -40px;
+    }
+    .recipe-area-header.rightside.popup {
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+    .main-item-popup {
+        margin-top: 36px;
+    }
+    .ingredients-list ol li {
+        line-height: 23px;
+        padding-left: 43px;
+    }
+    .main-paragrap-item {
+        margin-top: 30px;
+    }
+    .iframe-youtube iframe {
+        width: 330px;
+    }
+    .modal_img {
+        width: 90%;
+        margin-bottom: 25px;
+    }
+    .calculate-recipe-item {
+        margin-top: 0;
+        margin-left: 0px;
+    }
+    .calculate-recipe-item.mobile_none {
+        display: none;
+    }
+    .calculate-recipe-item.destop_none{
+        display: block;
+    }
+    .calculate-recipe-item {
+        margin-bottom: 20px;
+    }
+    .main-item-popup .col-md-5.none {
+        display: block;
+    }
+
+     /*end view recipe modal*/
+
+     /*contact us*/
+
+    .banner_bottom_info .sc_baburchi_search_panel {
+        padding: 20px 45px 25px 30px;
+    }
+    .contact_baburchi {
+        width: 100%;
+    }
+    .contact_baburchi_send {
+        text-align: center;
+    }
+    .banner_bottom_info .button-area .recipe {
+        margin-top: 10px;
+    }
+    .text-information-about.contact .banner_bottom_info, .col-md-3{
+        max-width: 25%;
+    }
+    .banner_bottom_info .sc_baburchi_search_inside_sc::before {
+        top: -87px;
+        right: -81px;
+    }
+    .banner-contact-info {
+        padding: 50px 20px 0px;
+    }
+    .banner-contact-info p {
+        font-size: 12px;
+    }
+    .banner_bottom_info .main-input .form-control {
+        width: 100%;
+    }
+    .banner_bottom_info .main-input label.name-fled {
+        width: 100%;
+    }
+    .banner_bottom_info .main-input textarea {
+        width: 100%;
+    }
+    .banner_bottom_info .banner_bottom_sc_area_item_bg_orange {
+        height: 410px;
+    }
+    .text-information-about.contact .banner_bottom_info, .col-md-3 {
+        max-width: 50%;
+    }
+    .banner_bottom_info .sc_baburchi_search_panel {
+        width: 81%;
+        top: 568px;
+    }
+    .text-information-about.contact h3.title_sc_center_item_heading {
+        padding: 6px 0 31px;
+    }
+    /*end contact us*/
+
+    /*modal*/
+    .btn.btn-warning.recipe {
+        margin-bottom: 19px;
+    }
+    .container_box.padding {
+        text-align: left;
+    }
+    /*end modal*/
+
+    /*view profile*/
+    .box-shadow.border-user-box {
+        padding: 27px 22px 51px 22px;
+    }
+    .main_profile_item_user {
+        overflow: hidden;
+        padding: 15px;
+    }
+    .main-user-name-destination {
+        margin-top: 20px;
+    }
+    .name-item-user {
+        width: 37%;
+    }
+    /*view profile*/
+
+    /*consumer voice*/
+    .text-box textarea {
+        width: 100%;
+    }
+    .text-box {
+        width: 90%;
+    }
+    .tittle-favourite.text-center.bdr_btm {
+        width: 90%;
+        margin: 0 auto 61px;
+    }
+    /*consumer voice end*/
+}
+
+
+/*end mobile layout 320px*/
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+/*baburchi*/
+    .image {
+        width: 27%;
+        display: block;
+    }
+    .description p, .profile-name p {
+        font-size: 16px;
+    }
+    .next-item-namber p {
+        margin-right: 28px;
+    }
+    .popup_baburchi_profile .profile-name-baburchi-popup, .profile-description-baburchi-popup  {
+        float: left;
+        width: 50%;
+    }
+    .popup_baburchi_profile .profile-all-list p {
+        line-height: 19px;
+        font-size: 14px;
+    }
+    .input-area-baburchi {
+        float: right;
+        clear: inherit;
+    }
+    .png_image-baburchi img {
+        margin-top: 0px;
+        max-height: 238px;
+    }
+    .main_baburchi_page .bg-profile {
+        height: 294px;
+    }
+    .main_baburchi_page .banner-profile-text .middile-text {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .main_baburchi_page .bg-profile-padding {
+        padding-left: 41px;
+    }
+    .bg-profile-padding {
+        padding-right: 40px;
+    }
+    /*end baburchi*/
+
+    /*our product*/
+    .single_product {
+        width: 50%;
+        float: left;
+    }
+    /*our product*/
+
+    /*view recipe*/
+    .single-food-recipe .recipe-area-header.leftside {
+        width: 250px;
+    }
+    .single-food-recipe .recipe-area-header.rightside {
+        width: calc(100% - 250px);
+        padding-top: 25px;
+    }
+    .single-food-recipe .recipe-item-tittle h4 {
+        font-size: 13px;
+        max-height: 50px;
+        line-height: 18px;
+    }
+    .single-food-recipe .button-area .recipe {
+        font-size: 12px;
+        margin-top: 18px;
+    }
+    /*end view recipe*/
+
+    /*view modal recipe*/
+
+    .modal-content.pd {
+        padding: 30px !important;
+    }
+    .recipe-item-img {
+        margin-top: -54px;
+    }
+    .modal_img {
+        width: 90%;
+        margin-bottom: 25px;
+    }
+
+
+
+    /*view modal recipe*/
+
+    /*contact*/
+
+    .banner_bottom_info .main-input .form-control, .banner_bottom_info .main-input textarea {
+        width: calc(100% - 70px);
+    }
+    .banner_bottom_info .main-input label.name-fled {
+        width: 70px;
+    }
+    .banner_bottom_info .banner_bottom_sc_area_item_bg_orange {
+        height: 252px;
+    }
+    .banner_bottom_info .sc_baburchi_search_panel {
+        width: 81%;
+        top: 510px;
+    }
+    .text-information-about.contact .banner_bottom_info, .col-md-3 {
+        max-width: 25%;
+    }
+     .text-information-about.contact h3.title_sc_center_item_heading {
+        padding: 50px 0 31px;
+    }
+
+    /*end contact*/
+
+
+    /*view profile*/
+
+    .profile-main-description .col-md-8 {
+        max-width: 75%;
+    }
+    .profile-main-description .col-md-4 {
+        max-width: 25%;
+    }
+
+    /*view profile end*/
+
+}
+
+/*wide mobile layout*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .right_side_bar_input_footer {
+        float: none;
+    }
+    .back_to_top {
+        margin-top: 0px;
+    }
+}
+
+
+/*end wide mobile layout*/
+
+
+/*Tablet layout 768*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .container_box {
+        width: 100%;
+    }
+    .sc_baburchi_search_panel {
+        top: 92%;
+    }
+    .sc_advise_area img {
+        width: 50%;
+    }
+    ul.top-area {
+        padding-top: 0px;
+    }
+    p.para {
+        font-size: 13px;
+    }
+    .item_sc_text_para h4 {
+        font-size: 20px;
+    }
+    nav.navbar.navbar-light.footer_input input {
+        min-width: 100%;
+        margin-bottom: 7px;
+    }
+    .footer_sc_area_item_section {
+        padding: 56px 56px;
+        height: 400px;
+    }
+    .footer_logo_area img {
+        top: 177px;
+    }
+    .images_sc_area_baburcii.small img {
+        height: 290px;
+        margin-top: 0px;
+    }
+    .navbar_sc_item_area_sc_menu {
+        padding-top: 26px;
+    }
+    .navbar-nav.item_nav_sc {
+        padding: 20px;
+        background: rgba(0, 0, 0, 0.8);
+        margin-top: 22px;
+    }
+    .log_in_sc_area_singup_section_area ul li a {
+        font-size: 9px;
+    }
+    .item_description {
+        padding: 75px 30px 37px;
+    }
+    i.far.fa-user {
+        font-size: 12px;
+        padding-right: 5px;
+    }
+    .log_in_sc_area_singup_section_area ul li {
+        padding-right: 5px;
+    }
+    .customar_voice_sc_main_item_area {
+        background: none;
+    }
+    .log_in_sc_area_singup_section_area {
+        padding-top: 36px;
+    }
+    .banner_sc_item_text_background_text_item {
+        padding-top: 55px;
+    }
+    .img_sc img {
+        width: 140px;
+    }
+    .navbar-light .menu-icon-bars {
+        color: #fff;
+        background: rgba(0, 0, 0, 0.5);
+        font-size: 25px;
+        padding: 3px 15px;
+        border-radius: 5px;
+    }
+    ul.top-area li {
+        padding: 16px 8px;
+    }
+    .inside-bars-nav li {
+        display: inline-block;
+        padding: 0 15px;
+    }
+    .inside-bars-nav li a {
+        color: #fff;
+    }
+    .top_header_sc_area_logo_navbar_section {
+        width: 100%;
+    }
+    .col-md-6.col-sm-6.pdr0 {
+        padding-right: 0px;
+    }
+    .owl-nav button.owl-next,
+    .owl-nav button.owl-prev {
+        top: 25%;
+    }
+
+    .padding-area-input .col-md-2.none_tab{
+        display: none;
+    }
+    .uplode-img-area.mobile_none {
+        display: block;
+    }
+    .modal-content {
+        padding: 17px !important;
+    }
+    .padding-area-input .col-md-9, .col-md-3, .col-md-6, .col-md-10, .col-md-4, .col-md-12, .col-md-2 {
+
+        padding-right: 0px;
+    }
+    .midile-wdt {
+        width: 100%;
+    }
+    .pd-up-img {
+        width: 100%;
+    }
+    .main-man-img, .uplode-img-area p {
+        width: 100%;
+    }
+    .pull-gender span {
+        font-size: 10px;
+    }
+    .pull-gender label {
+        padding-right: 0px;
+        font-size: 10px;
+    }
+    .main-input .form-control, .custom-select.item-dpr {
+        width: calc(100% - 66px);
+    }
+    .main-input label.name-fled {
+        width: 66px;
+    }
+    .main-input label.name-fled {
+        font-size: 11px;
+    }
+    .custom-select.item-dpr {
+        font-size: 9px;
+    }
+
+    
+    /*baburchi-tabs*/
+
+    .main-item-list ul li {
+        font-size: 11px;
+        padding-left: 42px;
+    }
+    .slider-slide.sc-padding-area {
+        padding-left: 10px;
+    }
+    .profile-name.mobile, .profile-name.contact, .profile-name.capacity-parson, .profile-name.address, .profile-name.Program, .profile-name.ratings {
+         text-align: left;
+         padding-left: 0;
+    }
+    .profile-name.Program{
+        padding-left: 20px;
+    }
+    .item-image p {
+        font-size: 7px;
+    }
+    .baburchi_list_sc {
+        padding: 0 15px;
+    }
+    .main_baburchi_page .bg-profile-padding {
+        padding: 0 50px;
+        padding-right: 0px;
+    }
+    .png_image-baburchi img {
+        margin-top: 0px;
+        max-height: 300px;
+        width: 300px;
+    }
+    .main_baburchi_page .banner-profile-text .middile-text {
+        font-size: 29px;
+        line-height: 35px;
+    }
+    .main_baburchi_page .bg-profile {
+        height: 391px;
+    }
+    .profile-name.address {
+        width: 15%;
+    }
+    .top-header-section-padding .col-md-2 {
+        padding-right: 8px;
+    }
+    .lang {
+        right: 0;
+    }
+    /*end baburchi-tabs*/
+
+
+    /*our product*/
+    .sc_advise_area img {
+        width: 100%;
+    }
+    .single_product .product_description p {
+        padding: 0 22px;
+    }
+    /*end our product*/
+
+    /*view recipe*/
+    .single-recipe-item .box-shadow {
+        padding: 0 10px 36px 10px;
+    }
+    .single-food-recipe .recipe-area-header.leftside {
+        width: 100%;
+        float: none;
+        padding: 0 12px;
+    }
+    /*view recipe*/
+
+    /*view modal recipe*/
+
+    /*view modal recipe*/
+
+    .modal-content.pd {
+        padding: 30px !important;
+    }
+    .recipe-item-img {
+        margin-top: -54px;
+    }
+    .modal_img {
+        width: 90%;
+        margin-bottom: 25px;
+    }
+    .header-area.popup .col-md-5 {
+        max-width: 100%;
+        flex: 100%;
+    }
+    .header-area.popup .col-md-6 {
+        max-width: 100%;
+        flex: 100%;
+    }
+    .recipe-area-header.rightside.popup {
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+    .main-item-popup {
+        margin-top: 30px;
+    }
+    .main-item-popup .col-md-7, .main-item-popup .col-md-8, .main-item-popup .col-md-5 {
+        max-width: 100%;
+        flex: 100%;
+    }
+    .calculate-recipe-item {
+        margin-top: 0;
+        margin-left: 0px;
+    }
+    .calculate-recipe-item.mobile_none {
+        display: none;
+    }
+    .calculate-recipe-item.destop_none{
+        display: block;
+    }
+    .calculate-recipe-item {
+        margin-bottom: 20px;
+    }
+    .single-food-recipe .recipe-item-tittle h4 {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .main-item-popup .col-md-5.none {
+        display: block;
+    }
+
+    /*view modal recipe*/
+
+
+    /*contact us*/
+
+    .banner_bottom_info .sc_baburchi_search_panel {
+        padding: 20px 45px 25px 30px;
+    }
+    .contact_baburchi {
+        width: 100%;
+    }
+    .contact_baburchi_send {
+        text-align: center;
+    }
+    .banner_bottom_info .button-area .recipe {
+        margin-top: 10px;
+    }
+
+    /*end contact us*/
+
+    /*modal*/
+
+    .btn.btn-warning.recipe {
+        margin-bottom: 19px;
+    }
+    .container_box.padding {
+        text-align: left;
+    }
+    .header-area-singup-body.bdr-bottom {
+        padding-top: 20px;
+    }
+
+    /*end modal*/
+
+    /*view profile*/
+    .profile-main-description {
+        padding: 0px;
+    }
+    .box-shadow.border-user-box {
+        padding: 24px 10px 51px 24px;
+    }
+    /*view profile end*/
+
+    /*consumer voice*/
+    .text-box {
+        width: 80%;
+    }
+    .text-box textarea {
+        width: 100%;
+    }
+    .tittle-favourite.text-center.bdr_btm{
+        width: 90%;
+        margin: 0 auto 61px;
+    }
+    /*consumer voice end*/
+}
+
+
+/*Tablet layout 768*/
+
+
+/*Medium layout 1280*/
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    ul.top-area li {
+        padding: 16px 10px;
+    }
+    .log_in_sc_area_singup_section_area {
+        padding-top: 38px;
+    }
+    .log_in_sc_area_singup_section_area ul li a {
+        font-size: 11px;
+    }
+    .col-md-4.left {
+        padding: 0 0px;
+    }
+    .owl-nav button.owl-next,
+    .owl-nav button.owl-prev {
+        top: 24%;
+        right: -44px;
+    }
+    .item_description {
+        padding: 75px 75px 38px;
+    }
+    nav.navbar.navbar-light.footer_input input {
+        width: 100%;
+        height: 34px;
+        margin-bottom: 7px;
+    }
+    .footer_sc_area_item_section {
+        padding: 26px 0;
+    }
+    .footer_logo_area img {
+        top: 99px;
+    }
+    .col-md-6.col-sm-6.pdr0 {
+        padding-right: 0px;
+    }
+    .images_sc_area_baburcii.small img {
+        margin-top: 0px;
+    }
+    .padding-area-input .col-md-2.none_tab{
+        display: none;
+    }
+    .uplode-img-area.mobile_none {
+        display: block;
+    }
+    /*baburchi*/
+    .png_image-baburchi img {
+        margin-top: 0px;
+        max-height: 300px;
+        width: 300px;
+    }
+    .main_baburchi_page .banner-profile-text .middile-text {
+        font-size: 29px;
+        line-height: 35px;
+    }
+    .main_baburchi_page .bg-profile {
+        height: 391px;
+    }
+    .bg-profile-padding {
+        padding: 0 57px;
+        padding-right: 0;
+    }
+    .main-item-list ul li {
+        font-size: 11px;
+        padding-left: 42px;
+    }
+    .slider-slide.sc-padding-area {
+        padding-left: 10px;
+    }
+    .profile-name.mobile, .profile-name.contact, .profile-name.capacity-parson, .profile-name.address, .profile-name.Program, .profile-name.ratings {
+         text-align: left;
+         padding-left: 0;
+    }
+    .profile-name.Program{
+        padding-left: 20px;
+    }
+    .item-image p {
+        font-size: 7px;
+    }
+    .baburchi_list_sc {
+        padding: 0 15px;
+    }
+    .profile-name.address {
+        width: 15%;
+    }
+    /*baburchi*/
+
+    /*our product*/
+
+    .single_product .product_description p {
+        font-size: 13px;
+    }
+    .lang {
+        right: 0;
+    }
+    .top-header-section-padding .col-md-2 {
+        padding: 0;
+    }
+    i.far.fa-user {
+        font-size: 16px;
+    }
+
+    /*end our product*/
+
+    /*view recipe*/
+    .single-food-recipe .recipe-item-tittle h4 {
+        font-size: 11px;
+    }
+    .single-food-recipe .button-area .recipe {
+        font-size: 9px;
+    }
+    .recipe-area-header.leftside .recipe-item-img.full {
+        margin-top: -15px;
+    }
+    .recipe-area-header.rightside {
+        padding-top: 20px;
+    }
+    .recipe-item-img {
+        margin-top: -21px;
+    }
+    .ingredients-list ol li {
+        font-size: 12px;
+    }
+    .recipe-item-tittle h4 {
+        font-size: 15px;
+    }
+    .recipe-area-header.rightside.popup {
+        padding-top: 19px;
+        padding-left: 0px;
+    }
+    .button-area .recipe {
+        font-size: 11px;
+        margin-top: 0px;
+    }
+    .tittle-bottom-uplode-area i {
+        font-size: 15px;
+    }
+    .main-item-popup .col-md-5.none {
+        display: none;
+    }
+    .calculate-recipe-item {
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    
+    .calculate-recipe-item .form-group .col-sm-3 {
+        max-width: 33%;
+    }
+    .calculate-recipe-item .form-group .col-sm-7 {
+        max-width: 84%;
+    }
+    .description-item-name, .description-item-name.quantity {
+        float: left;
+        width: 50%;
+    }
+    .main-item-popup .col-md-5.none {
+        display:none;
+    }
+    /*view recipe*/
+
+    /*modal*/
+
+    .btn.btn-warning.recipe {
+        margin-bottom: 19px;
+    }
+    .container_box.padding {
+        text-align: left;
+    }
+
+    /*end modal*/
+
+    /*view profile*/
+    .profile-main-description {
+        padding: 0px;
+    }
+    .box-shadow.border-user-box {
+        padding: 24px 10px 51px 24px;
+    }
+    /*view profile end*/
+
+    /*consumer voice*/
+    .text-box {
+        width: 80%;
+    }
+    .text-box textarea {
+        width: 100%;
+    }
+    .tittle-favourite.text-center.bdr_btm{
+        width: 90%;
+        margin: 0 auto 61px;
+    }
+    /*consumer voice end*/
+}
+
+
+/*high regulation device*/
+
+@media only screen and (min-width: 1920px) {
+    .images_sc_area_baburcii.small img {
+        height: 517px;
+    }
+    .customar_voice_sc_main_item_area {
+        background: url("../image/consumer-voice-background-1.png") no-repeat center/cover;
+    }
+}
+
+@media only screen and (min-width: 3000px) {
+    .images_sc_area_baburcii.small img {
+        height: 799px;
+    }
+    .customar_voice_sc_main_item_area {
+        background: url("../image/consumer-voice-background-1.png") no-repeat center/cover;
+    }
+}
